@@ -12,7 +12,7 @@ contract Customer {
         atcustomer,
         sold,
         expired,
-        damaged
+        damaged 
     }
 
     event MedicineStatus(
